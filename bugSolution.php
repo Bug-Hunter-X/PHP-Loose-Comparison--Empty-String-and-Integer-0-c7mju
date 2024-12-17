@@ -1,0 +1,1 @@
+This corrected code utilizes strict comparison (===) to accurately compare the empty string and the integer 0.  Strict comparison ensures type and value equality, avoiding the unexpected behavior caused by PHP's loose comparison.
